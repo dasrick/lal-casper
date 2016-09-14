@@ -13,6 +13,9 @@
     "url": "https://github.com/dasrick/lal-casper/issues"
   },
   "homepage": "https://github.com/dasrick/lal-casper#readme",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
