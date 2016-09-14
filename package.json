@@ -1,0 +1,19 @@
+{
+  "name": "lal-casper",
+  "version": "0.0.0",
+  "description": "Some casper tests fo LAL",
+  "author": "Enrico Hoffmann <dasrick@gmail.com>",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/lal-casper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dasrick/lal-casper/issues"
+  },
+  "homepage": "https://github.com/dasrick/lal-casper#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
